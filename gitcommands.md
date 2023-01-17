@@ -25,3 +25,7 @@ This file contains basic git commands.
 ## Remote Commands
 
 - git push origin main: pushes main branch to origin
+- git fetch: fetches files from remote
+- git checkout origin/main: examine files from remote
+- git switch main: switch to local main branch
+- git pull origin main
